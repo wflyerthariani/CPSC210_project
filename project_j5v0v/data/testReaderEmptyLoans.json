@@ -1,0 +1,14 @@
+{"loans": [{
+  "isReturned": false,
+  "library": "test1",
+  "itemsLoaned": [],
+  "dueDate": "2021-04-05",
+  "loanDate": "2023-04-03"
+},
+{
+  "isReturned": true,
+  "library": "test2",
+  "itemsLoaned": [],
+  "dueDate": "2022-03-05",
+  "loanDate": "2022-03-03"
+}]}

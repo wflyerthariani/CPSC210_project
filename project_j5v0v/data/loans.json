@@ -1,0 +1,29 @@
+{"loans": [
+    {
+        "isReturned": true,
+        "library": "test",
+        "itemsLoaned": [
+            {
+                "author": "ahhahaha",
+                "title": "title"
+            },
+            {
+                "director": "director",
+                "producer": "producer",
+                "title": "titre"
+            }
+        ],
+        "dueDate": "2022-03-06",
+        "loanDate": "2022-03-03"
+    },
+    {
+        "isReturned": false,
+        "library": "librarytest",
+        "itemsLoaned": [{
+            "author": "author",
+            "title": "book"
+        }],
+        "dueDate": "2022-04-02",
+        "loanDate": "2022-03-28"
+    }
+]}
